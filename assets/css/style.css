@@ -1,0 +1,19 @@
+#save-btn, #search-btn {
+  padding: 10px 50px;
+  background-color: rgb(238, 134, 151);
+  color: white;
+  border: none;
+}
+#save-btn:hover, #search-btn:hover {
+  background-color: purple;
+}
+
+input {
+  padding: 10px 40px;
+  border: 1px solid blue;
+}
+
+input:focus {
+  outline: none;
+  border: 1px solid palevioletred;
+}
